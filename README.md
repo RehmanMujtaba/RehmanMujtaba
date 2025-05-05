@@ -16,7 +16,9 @@ If you'd like to get in touch, you can reach me at rehmanmujtaba@outlook.com. I'
 
 ## Fun Facts
 - 🌍 I can name all the countries on a world map and name all countries from their flags.
-- 🧩 I enjoy solving Rubik's Cubes and playing chess in my free time.
+- 🧩 I enjoy solving Rubik's Cubes and playing chess (poorly).
+- 🎸 I'm learning to play guitar with a focus on dad rock.
+- 🎮 I (unfortunately) play League of Legends in my free time.
 
 ## Languages
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
