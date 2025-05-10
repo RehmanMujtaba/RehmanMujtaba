@@ -1,6 +1,6 @@
 # Hello there 👋
 
-My name is Mujtaba. I'm a motivated and passionate Computer Science Student at the University of Waterloo, in Waterloo, ON Canada. I use this repository to document my progress and showcase some of the projects I have worked on.
+My name is Muj (Mujtaba for long). I'm a 4th year Computer Science Student at the University of Waterloo, in Waterloo, ON Canada. I use this repository to document my progress and showcase some of the projects I have worked on.
 
 ![](https://komarev.com/ghpvc/?username=RehmanMujtaba)
 
@@ -9,7 +9,6 @@ My name is Mujtaba. I'm a motivated and passionate Computer Science Student at t
 ## What I'm Working On
 - 🎶 Coding a web app that allows users to transfer their music playlist between Spotify and YouTube.
 - 🧩 Developing a Rubix's Cube solver using Python and OpenCV.
-- 🎓 Building a Waterloo CS course recommendation generator to help students make better-informed decisions about their studies.
 
 ## Contact Me
 If you'd like to get in touch, you can reach me at rehmanmujtaba@outlook.com. I'm always happy to chat with fellow developers about new ideas. Feel free to contact me for any additional information about my projects.
@@ -17,8 +16,8 @@ If you'd like to get in touch, you can reach me at rehmanmujtaba@outlook.com. I'
 ## Fun Facts
 - 🌍 I can name all the countries on a world map and name all countries from their flags.
 - 🧩 I enjoy solving Rubik's Cubes and playing chess (poorly).
-- 🎸 I'm learning to play guitar with a focus on dad rock.
-- 🎮 I (unfortunately) play League of Legends in my free time.
+- 🎸 I play electric guitar, mostly dad rock.
+- 🎮 I (unfortunately) play League of Legends sometimes.
 
 ## Languages
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
