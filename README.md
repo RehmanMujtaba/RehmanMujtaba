@@ -2,9 +2,6 @@
 
 My name is Muj (Mujtaba for long). I'm a 4th year Computer Science Student at the University of Waterloo, in Waterloo, ON Canada. I use this repository to document my progress and showcase some of the projects I have worked on.
 
-![](https://komarev.com/ghpvc/?username=RehmanMujtaba)
-
-*This view counter was added on Thursday, 9th February 2023*
 
 ## What I'm Working On
 - 🎶 Coding a web app that allows users to transfer their music playlist between Spotify and YouTube.
