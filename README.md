@@ -2,11 +2,6 @@
 
 My name is Muj (Mujtaba for long). I'm a 4th year Computer Science Student at the University of Waterloo, in Waterloo, ON Canada. I use this repository to document my progress and showcase some of the projects I have worked on.
 
-
-## What I'm Working On
-- 🎶 Coding a web app that allows users to transfer their music playlist between Spotify and YouTube.
-- 🧩 Developing a Rubix's Cube solver using Python and OpenCV.
-
 ## Contact Me
 If you'd like to get in touch, you can reach me at rehmanmujtaba@outlook.com. I'm always happy to chat with fellow developers about new ideas. Feel free to contact me for any additional information about my projects.
 
