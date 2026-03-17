@@ -1,9 +1,9 @@
 # Hello there 👋
 
-My name is Muj (Mujtaba for long). I'm a 4th year Computer Science Student at the University of Waterloo, in Waterloo, ON Canada. I use this repository to document my progress and showcase some of the projects I have worked on.
+My name is Muj (Mujtaba for long). I'm a 4th year Computer Science Student at the University of Waterloo, in Waterloo, ON Canada
 
 ## Contact Me
-If you'd like to get in touch, you can reach me at rehmanmujtaba@outlook.com. I'm always happy to chat with fellow developers about new ideas. Feel free to contact me for any additional information about my projects.
+If you'd like to get in touch, you can reach me at rehmanmujtaba@outlook.com. I'm always happy to chat with fellow developers. Feel free to contact me for any additional information about my projects.
 
 ## Fun Facts
 - 🌍 I can name all the countries on a world map and name all countries from their flags.
